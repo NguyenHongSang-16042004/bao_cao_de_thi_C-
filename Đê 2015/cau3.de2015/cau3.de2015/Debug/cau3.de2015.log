@@ -1,0 +1,12 @@
+﻿  cau3.de2015.cpp
+F:\codevui\cau3.de2015\cau3.de2015\cau3.de2015.cpp(16,29): warning C4244: 'return': conversion from 'float' to 'long', possible loss of data
+F:\codevui\cau3.de2015\cau3.de2015\cau3.de2015.cpp(44,52): warning C4244: 'return': conversion from 'float' to 'long', possible loss of data
+F:\codevui\cau3.de2015\cau3.de2015\cau3.de2015.cpp(58,55): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\codevui\cau3.de2015\cau3.de2015\cau3.de2015.cpp(65,50): warning C4244: 'return': conversion from 'float' to 'long', possible loss of data
+F:\codevui\cau3.de2015\cau3.de2015\cau3.de2015.cpp(73,50): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\codevui\cau3.de2015\cau3.de2015\cau3.de2015.cpp(83,49): warning C4244: 'return': conversion from 'float' to 'long', possible loss of data
+F:\codevui\cau3.de2015\cau3.de2015\cau3.de2015.cpp(86,49): warning C4244: 'return': conversion from 'float' to 'long', possible loss of data
+F:\codevui\cau3.de2015\cau3.de2015\cau3.de2015.cpp(96,54): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\codevui\cau3.de2015\cau3.de2015\cau3.de2015.cpp(97,54): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\codevui\cau3.de2015\cau3.de2015\cau3.de2015.cpp(137,27): warning C4018: '<': signed/unsigned mismatch
+  cau3.de2015.vcxproj -> F:\codevui\cau3.de2015\Debug\cau3.de2015.exe

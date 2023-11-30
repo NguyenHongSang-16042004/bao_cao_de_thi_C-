@@ -1,0 +1,3 @@
+﻿  cau1c.de2015.cpp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Sang\source\repos\cau1c.de2015\Debug\cau1c.de2015.exe : fatal error LNK1120: 1 unresolved externals

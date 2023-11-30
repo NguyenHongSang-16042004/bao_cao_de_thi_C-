@@ -1,0 +1,5 @@
+﻿  cau1.de2016.cpp
+F:\codevui\cau1.de2016\cau1.de2016\cau1.de2016.cpp(41,36): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+F:\codevui\cau1.de2016\cau1.de2016\cau1.de2016.cpp(66,36): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+F:\codevui\cau1.de2016\cau1.de2016\cau1.de2016.cpp(84,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  cau1.de2016.vcxproj -> F:\codevui\cau1.de2016\Debug\cau1.de2016.exe

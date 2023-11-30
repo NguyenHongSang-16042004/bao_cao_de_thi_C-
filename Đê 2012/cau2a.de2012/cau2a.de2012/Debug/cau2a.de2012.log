@@ -1,0 +1,9 @@
+﻿  cau2a.de2012.cpp
+C:\Sang\source\repos\cau2a.de2012\cau2a.de2012\cau2a.de2012.cpp(6,22): warning C4566: character represented by universal-character-name '\u1EBD' cannot be represented in the current code page (1252)
+C:\Sang\source\repos\cau2a.de2012\cau2a.de2012\cau2a.de2012.cpp(6,22): warning C4566: character represented by universal-character-name '\u1ED9' cannot be represented in the current code page (1252)
+C:\Sang\source\repos\cau2a.de2012\cau2a.de2012\cau2a.de2012.cpp(6,22): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1252)
+C:\Sang\source\repos\cau2a.de2012\cau2a.de2012\cau2a.de2012.cpp(13,22): warning C4566: character represented by universal-character-name '\u1EBD' cannot be represented in the current code page (1252)
+C:\Sang\source\repos\cau2a.de2012\cau2a.de2012\cau2a.de2012.cpp(13,22): warning C4566: character represented by universal-character-name '\u1ED9' cannot be represented in the current code page (1252)
+C:\Sang\source\repos\cau2a.de2012\cau2a.de2012\cau2a.de2012.cpp(20,22): warning C4566: character represented by universal-character-name '\u1EBD' cannot be represented in the current code page (1252)
+C:\Sang\source\repos\cau2a.de2012\cau2a.de2012\cau2a.de2012.cpp(20,22): warning C4566: character represented by universal-character-name '\u1ED9' cannot be represented in the current code page (1252)
+  cau2a.de2012.vcxproj -> C:\Sang\source\repos\cau2a.de2012\Debug\cau2a.de2012.exe
